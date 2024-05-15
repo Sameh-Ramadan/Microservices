@@ -1,4 +1,4 @@
-#Summary
+# Summary
 
 •	The Spring Cloud Configuration Server (aka Config Server) allows you to set
 up application properties with environment-specific values.

@@ -30,7 +30,7 @@ spring:
             - RewritePath=/license/(?<path>.*), /$\{path}
 
 
-
+#Enable all Spring Boot Actuator endpoints.
 management:
   endpoints:
     web:
